@@ -17,7 +17,7 @@
 <br>
 
 > ### **최종 결과물 바로가기**
-> *   **[PORTFOLIO]** **[핵심 요약 포트폴리오 (PDF) 보기](./2025_Data_Analysis_Portfolio.pdf)** `<- 클릭!`
+> *   **[PORTFOLIO]** **[핵심 요약 포트폴리오 (PDF) 보기](./2025_Data_Anaysis_Portfolio.pdf)** `<- 클릭!`
 > *   **[FULL REPORT]** **[상세 분석 보고서 전체 보기 ([Notion/Blog Link](https://growthpm.tistory.com/6))]** `<- 클릭!` *(분석의 모든 과정과 인사이트를 담았습니다.)*
 
 <br>
